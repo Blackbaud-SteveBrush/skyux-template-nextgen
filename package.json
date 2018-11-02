@@ -1,0 +1,53 @@
+{
+  "name": "blackbaud-skyux-spa-rrrrr-app-name",
+  "version": "0.0.1",
+  "description": "Single-page-application for rrrrr-app-name",
+  "repository": {},
+  "main": "index.js",
+  "scripts": {
+    "skyux": "skyux",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Blackbaud",
+  "license": "ISC",
+  "dependencies": {
+    "@angular/animations": "7.0.2",
+    "@angular/common": "7.0.2",
+    "@angular/compiler": "7.0.2",
+    "@angular/core": "7.0.2",
+    "@angular/forms": "7.0.2",
+    "@angular/http": "7.0.2",
+    "@angular/platform-browser": "7.0.2",
+    "@angular/platform-browser-dynamic": "7.0.2",
+    "@angular/router": "7.0.2",
+    "@skyux/assets": "3.0.0",
+    "@skyux/avatar": "3.0.0-rc.1",
+    "@skyux/config": "3.1.0",
+    "@skyux/core": "3.2.2",
+    "@skyux/errors": "3.0.0-rc.1",
+    "@skyux/forms": "3.0.0-rc.1",
+    "@skyux/http": "3.0.0",
+    "@skyux/i18n": "3.2.1",
+    "@skyux/indicators": "3.0.0-rc.2",
+    "@skyux/modals": "3.0.0-rc.3",
+    "@skyux/omnibar-interop": "3.0.0",
+    "@skyux/router": "3.0.0",
+    "@skyux/theme": "3.2.2",
+    "core-js": "2.5.7",
+    "rxjs": "6.3.3",
+    "rxjs-compat": "6.3.3",
+    "zone.js": "0.8.26"
+  },
+  "devDependencies": {
+    "@angular/compiler-cli": "7.0.2",
+    "@blackbaud/skyux-builder": "blackbaud/skyux-builder#rc-upgrade-deps",
+    "@skyux-sdk/e2e": "3.0.0",
+    "@skyux-sdk/testing": "3.0.0",
+    "@types/core-js": "2.5.0",
+    "codelyzer": "4.5.0",
+    "ts-node": "7.0.1",
+    "tslint": "5.11.0",
+    "typescript": "3.1.5"
+  }
+}
