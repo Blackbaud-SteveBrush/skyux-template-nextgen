@@ -19,12 +19,6 @@ import {
   SkyModalModule
 } from '@skyux/modals';
 
-// import {
-//   SkyNavbarModule
-// } from '@blackbaud/skyux/modules/navbar';
-
-export * from 'rxjs-compat';
-
 @NgModule({
   exports: [
     SkyAlertModule,
